@@ -1,0 +1,48 @@
+{
+  "name": "cli",
+  "version": "1.0.0",
+  "main": "index.js",
+  "preferGlobal": "true",
+  "bin": {
+    "golgi": "index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^2.6.0",
+    "async-traverse": "^1.0.1",
+    "aws-sdk": "^2.238.1",
+    "chalk": "^2.4.1",
+    "clear": "^0.1.0",
+    "cli-table": "^0.3.1",
+    "clui": "^0.3.6",
+    "commander": "^2.15.1",
+    "configstore": "^3.1.2",
+    "emailjs-mime-parser": "^2.0.5",
+    "exceljs": "^1.4.6",
+    "figlet": "^1.2.0",
+    "html-to-text": "^4.0.0",
+    "html2plaintext": "^2.0.1",
+    "inquirer": "^5.2.0",
+    "install": "^0.12.1",
+    "mailparser": "^2.2.0",
+    "minimist": "^1.2.0",
+    "moment": "^2.22.1",
+    "npm": "^6.1.0",
+    "pdf-to-text": "0.0.6",
+    "pdf.js-extract": "0.0.9",
+    "rmdir": "^1.2.0",
+    "sanitize-html": "^1.18.2",
+    "striptags": "^3.1.1",
+    "utf8": "^3.0.0",
+    "uuid": "^3.3.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "description": ""
+}
